@@ -1,0 +1,20 @@
+sidenavtitle: 'MATH F302'
+docs:
+
+- title: Syllabus
+  url: assets/general/F25/syllabus.pdf
+
+- title: Schedule
+  url: assets/general/F25/schedule.pdf
+
+- title: Homework
+  url: homework.html
+
+- title: Quizzes
+  url: quizzes.html
+
+- title: Exams
+  url: exams.html
+
+- title: Daily log
+  url: daily.html

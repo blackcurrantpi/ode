@@ -1,0 +1,15 @@
+semester: Fall 2025
+home: assets/quizzes/F25
+exams:
+- name: Quiz 1
+  date: Wednesday, 3 September
+  # info: <b>in class</b>
+  info: 1.1, 1.2, 1.3
+  #reviewguide: midreview.pdf
+  #blank: midterm.pdf
+  #solutions: midsolns.pdf
+# - name: Final Exam
+#   date: Friday, December 12
+#   info: <b>in class</b>
+#   #reviewguide: finalreview.pdf
+#   #rubric: finalrubric.pdf

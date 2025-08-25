@@ -1,0 +1,14 @@
+semester: Fall 2025
+home: assets/exams/F25
+exams:
+- name: Midterm Exam
+  date: Friday, October 24
+  info: <b>in class</b>
+  #reviewguide: midreview.pdf
+  #blank: midterm.pdf
+  #solutions: midsolns.pdf
+- name: Final Exam
+  date: Friday, December 12
+  info: <b>in class, 10:15am-12:15pm</b>
+  #reviewguide: finalreview.pdf
+  #rubric: finalrubric.pdf

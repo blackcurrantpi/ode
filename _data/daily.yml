@@ -1,0 +1,12 @@
+semester: Fall 2025
+home: assets/
+daily:
+- name: Monday 25 August
+  description: FIXME
+  chapters: FIXME
+  #more: x
+  #chapter: x
+  #otherurl: https://www.youtube.com/watch?v=UhZfwzB9E_Q
+  #otherurlname: "YouTube video: simulation of OSIRIS-APEX to asteroid Apophis"
+  #doc: slides/F24/polynonewt.pdf
+  #docname: "PDF slides: How to put a polynomial through points"
