@@ -3,9 +3,9 @@ home: assets/
 daily:
 - name: Monday 25 August
   description: Definitions and terminology
-  chapters: 1.1
+  chapter: 1.1
   #more: x
-  #chapter: x
+  #chapters: x
   #otherurl: https://www.youtube.com/watch?v=UhZfwzB9E_Q
   #otherurlname: "YouTube video: simulation of OSIRIS-APEX to asteroid Apophis"
   #doc: slides/F24/polynonewt.pdf

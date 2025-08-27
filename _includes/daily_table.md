@@ -10,10 +10,10 @@
         <br>{{ material.more }}
     {% endif %}
     {% if material.chapter %}
-        <br>(Chapter {{ material.chapter }})
+        <br>(Section {{ material.chapter }})
     {% endif %}
     {% if material.chapters %}
-        <br>(Chapters {{ material.chapters }})
+        <br>(Sections {{ material.chapters }})
     {% endif %}
     {% if material.doc %}
         <br><a href="{{ data.home }}/{{ material.doc }}">{{ material.docname }}</a>

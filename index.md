@@ -3,7 +3,7 @@ layout: course-page
 title: Sasha's Math F302 at UAF
 ---
 
-# CAUTION: STILL UNDER CONSTRUCTION!!
+<!-- # CAUTION: STILL UNDER CONSTRUCTION!! -->
 
 Welcome to the public homepage of **Math F302 Ordinary Differential Equations**, Fall 2025, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
