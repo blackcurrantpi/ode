@@ -10,3 +10,8 @@ daily:
   #otherurlname: "YouTube video: simulation of OSIRIS-APEX to asteroid Apophis"
   #doc: slides/F24/polynonewt.pdf
   #docname: "PDF slides: How to put a polynomial through points"
+
+- name: Wednesday 27 August
+  description: Initial value problems
+  chapter: 1.2
+
