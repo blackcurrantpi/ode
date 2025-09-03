@@ -9,7 +9,13 @@ Welcome to the public homepage of **Math F302 Ordinary Differential Equations**,
 
 #### Instructor:  Oleksandr Bobrovnikov
 
-Email me at [obobrovnikov@alaska.edu](mailto:obobrovnikov@alaska.edu).  I hold office hours in Chapman 303A, **FIXME**.
+Email me at [obobrovnikov@alaska.edu](mailto:obobrovnikov@alaska.edu).  I hold office hours
+
+* on Monday 11:45am--12:30pm at Chapman 303a or Chapman 305, depending on the size of the crowd;
+
+* on Wednesday 11:45am--12:30pm in the  Student Success Center, 6th Floor Room 672 Rasmuson Library;
+
+* by appointment (email me).
 
 ### Canvas course page
 
@@ -17,7 +23,7 @@ Log in to [canvas.alaska.edu/courses/27085](https://canvas.alaska.edu/courses/27
 
 ### Getting Started
 
-* Attend lectures: MWF 10:30--11:30 am in Duckering 342.
+* Attend lectures: MWF 10:30--11:30am in Duckering 342.
 
 * Read the [Syllabus (PDF)](assets/general/F25/syllabus.pdf).
 
