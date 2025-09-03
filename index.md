@@ -13,7 +13,7 @@ Email me at [obobrovnikov@alaska.edu](mailto:obobrovnikov@alaska.edu).  I hold o
 
 * on Monday 11:45am--12:30pm at Chapman 303a or Chapman 305, depending on the size of the crowd;
 
-* on Wednesday 11:45am--12:30pm in the  Student Success Center, 6th Floor Room 672 Rasmuson Library;
+* on Wednesday 11:45am--12:45pm in the  Student Success Center, 6th Floor Room 672 Rasmuson Library;
 
 * by appointment (email me).
 
