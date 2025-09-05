@@ -22,3 +22,10 @@ daily:
 - name: Wednesday 3 September
   description: Quiz 1
 
+- name: Friday 5 September
+  description: Solution curves
+  chapter: 2.1
+  doc: codes/direction_field.py
+  docname: Direction field plotter for Python
+  otherurl: https://www.wolframalpha.com
+  otherurlname: "WolframAlpha can also plot direction fields"
