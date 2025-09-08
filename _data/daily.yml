@@ -29,3 +29,7 @@ daily:
   docname: Direction field plotter for Python
   otherurl: https://www.wolframalpha.com
   otherurlname: "WolframAlpha can also plot direction fields"
+
+- name: Monday 8 September
+  description: Separable DE
+  chapter: 2.2

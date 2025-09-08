@@ -2,6 +2,23 @@ semester: Fall 2025
 home: assets/homework
 homework:
 
+- name: WRH 3
+- due: Monday, 15 September
+  sections:
+  - section: 2.2
+    problems: 7, 13, 23, 29, 47, 49
+  - section: 2.3
+    problems: TBD
+  - section: 2.4
+    problems: TBD
+
+- name: WRH 2
+- due: Monday, 8 September
+  sections:
+  - section: 2.1
+    problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
+    supp: readme_wrh02.pdf
+
 - name: WRH 1
 - due: Sunday, 31 August
   sections:
@@ -12,12 +29,6 @@ homework:
   - section: 1.3
     problems: 3, 5, 17, 24
 
-- name: WRH 2
-- due: Monday, 8 September
-  sections:
-  - section: 2.1
-    problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
-    supp: readme_wrh02.pdf
 
 # - name: WA 1.1, WA 1.2, 1.3
 # - due: Sunday, 31 August
