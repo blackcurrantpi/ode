@@ -33,3 +33,7 @@ daily:
 - name: Monday 8 September
   description: Separable DE
   chapter: 2.2
+
+- name: Wednesday 10 September
+  description: Linear first order DE
+  chapter: 2.3
