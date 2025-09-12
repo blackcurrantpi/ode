@@ -37,3 +37,9 @@ daily:
 - name: Wednesday 10 September
   description: Linear first order DE
   chapter: 2.3
+
+- name: Friday 12 September
+  description: Exact equations
+  chapter: 2.4
+  doc: worksheets/2p2_2p3.pdf
+  docname: worksheet

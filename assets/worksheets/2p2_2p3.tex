@@ -1,0 +1,141 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[british]{babel}
+% \usepackage{fullpage}
+\usepackage[top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm, headheight=.5cm, headsep=.5cm]{geometry}
+
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{xcolor}
+\usepackage{transparent}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{dsfont}
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+\usepackage[unicode]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=red,
+    citecolor=[rgb]{.22,.33,.88},
+    urlcolor=magenta
+}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,dsfont}
+\usepackage[shortlabels]{enumitem} 
+\usepackage[parfill]{parskip}
+
+\def\Z{\mathds Z}
+\def\R{\mathds R}
+\def\C{\mathds C}
+\def\d{\mathrm d}
+\def\1{\mathds 1}
+\def\wh{\widehat}
+\def\wt{\widetilde}
+\def\midd{\,\middle\vert\, }
+\newcommand\restr[2]{
+\left.#1 \vphantom{\Bigr|}\right\lvert_{#2}
+}
+\numberwithin{equation}{section}
+
+\usepackage{palatino}
+\usepackage[euler-digits]{eulervm}
+
+
+\def\midd{\,\middle\vert\, }
+\def\wto{\overset{\text{w.}}{\longrightarrow}}
+\def\tot#1{\overset{\text{#1}}\longrightarrow}
+\def\totm#1{\overset{#1}\longrightarrow}
+\def\limin{\operatornamewithlimits{\underline{lim}}}
+\def\limsu{\operatornamewithlimits{\overline{lim}}}
+\def\abs#1{\left\lvert#1\right\rvert}
+\def\norm#1{\left\lVert #1\right\rVert }
+\def\1{\mathds 1}
+\def\0{\varnothing}
+\def\im{\operatorname{im}}
+\def\id{\operatorname{id}}
+\def\scpr#1{\left\langle #1\right\rangle }
+\def\conv{\operatorname{conv}}
+\def\wh{\widehat}
+\def\wt{\widetilde}
+\def\ol{\overline}
+\def\ph{\phantom{}}
+\def\ker{\operatorname{Ker}}
+
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{theorem}[proposition]{Theorem}
+\newtheorem{remark}[proposition]{Remark}
+\newtheorem{lemma}[proposition]{Lemma}
+\newtheorem{corollary}[proposition]{Corollary}
+\newtheorem{definition}[proposition]{Definition}
+\numberwithin{equation}{section}
+
+\theoremstyle{definition}
+\newcounter{exno}
+\setcounter{exno}{0}
+\newtheorem{example}{Example}[section]
+\newtheorem{exercise}[exno]{}
+
+\newcounter{points}
+\setcounter{points}{0}
+\newcommand{\pts}[1]{\emph{(#1 pts)}\addtocounter{points}{#1}}
+
+\renewcommand{\theequation}{\arabic{equation}}% changes enumeration
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% headers
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{{\textbf{Math 302: Worksheet} }}
+\chead{}
+\rhead{{\textbf{Fall 2025} }}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% comments
+\usepackage{soul}
+\definecolor{OliveGreen}{rgb}{.3,.6,.2}
+\definecolor{MidnightBlue}{rgb}{.3,.4,.7}
+\definecolor{leccol}{rgb}{.9,.5,.14}
+\definecolor{myred}{rgb}{.7,.1,.2}
+
+\begin{document}
+\sloppy
+\binoppenalty=10000
+\pagestyle{fancy}
+% \normalsize
+\large
+\centerline{{\Large \textsc{Some DEs to solve}}}
+\medskip
+\noindent
+You know how to solve first-order \emph{separable} (section 2.2) and \emph{linear} (section 2.3) DEs.  Decide if these are separable or linear (or both or neither), and find the general solution if possible.
+
+\bigskip
+\begin{exercise}
+     $\displaystyle \frac{dy}{dx} = 1 + x^2$
+\end{exercise}
+\vfill
+\begin{exercise}
+     $\displaystyle \frac{dy}{dx} = 1 + y^2$
+\end{exercise}
+\vfill
+\begin{exercise}
+     $\displaystyle \frac{dy}{dx} = 1 + y$
+\end{exercise}
+\vfill
+\begin{exercise}
+     $\displaystyle \frac{dy}{dx} = 1 + x y$
+\end{exercise}
+\vfill
+\begin{exercise}
+     $\displaystyle \frac{dy}{dx} = 1 + x y^2$
+\end{exercise}
+\vfill
+\begin{exercise}
+     $\displaystyle \frac{dy}{dx} = x + x y$
+\end{exercise}
+\vfill
+\end{document}
