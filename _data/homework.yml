@@ -2,6 +2,14 @@ semester: Fall 2025
 home: assets/homework
 homework:
 
+- name: WRH 4
+- due: Monday, 15 September
+  sections:
+  - section: 2.6
+    problems: No problems from the book, instead
+    supp: F25/wrh2p6.pdf
+
+
 - name: WRH 3
 - due: Monday, 15 September
   sections:
@@ -17,7 +25,7 @@ homework:
   sections:
   - section: 2.1
     problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
-    supp: readme_wrh02.pdf
+    supp: F25/readme_wrh02.pdf
 
 - name: WRH 1
 - due: Sunday, 31 August

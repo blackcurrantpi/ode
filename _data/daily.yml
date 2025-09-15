@@ -43,3 +43,7 @@ daily:
   chapter: 2.4
   doc: worksheets/2p2_2p3.pdf
   docname: worksheet
+
+- name: Monday 15 September
+  description: Euler's method
+  chapter: 2.6
