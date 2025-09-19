@@ -47,3 +47,10 @@ daily:
 - name: Monday 15 September
   description: Euler's method
   chapter: 2.6
+
+- name: Wednesday 17 September
+  description: Quiz 2
+
+- name: Friday 19 September
+  description: Linear models
+  chapter: 3.1

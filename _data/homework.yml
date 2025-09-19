@@ -8,6 +8,8 @@ homework:
   - section: 2.6
     problems: No problems from the book, instead
     supp: F25/wrh2p6.pdf
+  - section: 3.1
+    problems: 5, 19, 21, 36, 38, 45
 
 
 - name: WRH 3
