@@ -54,3 +54,11 @@ daily:
 - name: Friday 19 September
   description: Linear models
   chapter: 3.1
+
+- name: Monday 22 September
+  description: Non-linear models
+  chapter: 3.2
+
+- name: Wednesday 24 September
+  description: Non-linear models (cont.)
+  chapter: 3.2

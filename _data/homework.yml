@@ -2,6 +2,14 @@ semester: Fall 2025
 home: assets/homework
 homework:
 
+- name: WRH 5
+- due: Monday, 29 September
+  sections:
+  - section: 3.2
+    problems: 2, 9, 11, 17, 19,
+
+
+
 - name: WRH 4
 - due: Monday, 22 September
   sections:
