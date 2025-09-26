@@ -62,3 +62,7 @@ daily:
 - name: Wednesday 24 September
   description: Non-linear models (cont.)
   chapter: 3.2
+
+- name: Friday 26 September
+  description: Higher order linear DE
+  chapter: 4.1
