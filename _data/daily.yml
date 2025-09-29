@@ -66,3 +66,7 @@ daily:
 - name: Friday 26 September
   description: Higher order linear DE
   chapter: 4.1
+
+- name: Monday 29 September
+  description: Linear homogenous DE with constant coefficients
+  chapter: 4.3
