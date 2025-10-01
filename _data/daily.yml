@@ -70,3 +70,6 @@ daily:
 - name: Monday 29 September
   description: Linear homogenous DE with constant coefficients
   chapter: 4.3
+
+- name: Wednesday 1 October
+  description: Quiz 3
