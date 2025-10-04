@@ -73,3 +73,7 @@ daily:
 
 - name: Wednesday 1 October
   description: Quiz 3
+
+-name: Friday 3 October
+  description: Reduction of order
+  chapter: 4.2
