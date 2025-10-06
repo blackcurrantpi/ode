@@ -77,3 +77,9 @@ daily:
 - name: Friday 3 October
   description: Reduction of order
   chapter: 4.2
+
+- name: Monday 6 October
+  description: Higher order DEs
+  chapter: 4.3
+  doc: worksheets/2p2_2p3.pdf
+  docname: worksheet
