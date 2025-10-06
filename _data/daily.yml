@@ -81,5 +81,5 @@ daily:
 - name: Monday 6 October
   description: Higher order DEs
   chapter: 4.3
-  doc: worksheets/2p2_2p3.pdf
+  doc: worksheets/4p2_4p3.pdf
   docname: worksheet
