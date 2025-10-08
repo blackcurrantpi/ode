@@ -7,11 +7,23 @@
         <tr>
             <td>{{ exam.name }} &nbsp; &nbsp; {{ exam.date }}</td>
         </tr>
-        {% if exam.info %}
+        <!-- {% if exam.info %}
         <tr>
             <td>{{ exam.info }}</td>
         </tr>
+        {% endif %} -->
+        {% if exam.info %}
+        <tr>
+        <td style="word-wrap: break-word; overflow-wrap: break-word; white-space: normal;">{{ exam.info }}</td>
+        </tr>
         {% endif %}
+        <!-- {% if exam.info %}
+        <tr>
+        <td style="word-wrap: break-word; overflow-wrap: break-word; white-space: normal;">
+        <span style="white-space: nowrap;">{{ exam.info | replace: ',', '. ' }}</span>
+        </td>
+        </tr>
+        {% endif %} -->
         {% if exam.reviewguide %}
         <tr>
             <td><a href="{{ data.home }}/{{ exam.reviewguide }}">review guide</a></td>
