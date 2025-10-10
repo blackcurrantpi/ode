@@ -83,3 +83,14 @@ daily:
   chapter: 4.3
   doc: worksheets/4p2_4p3.pdf
   docname: worksheet
+
+- name: Wednesday 8 October
+  description: Non-homogenous linear DEs. Undetermined coefficients 
+  chapter: 4.4
+
+- name: Friday 10 October
+  description: Non-homogenous linear DEs. Undetermined coefficients 
+  chapter: 4.4
+  doc: worksheets/4p4.pdf
+  docname: worksheet
+
