@@ -3,6 +3,12 @@ home: assets/homework
 homework:
 
 
+- name: WRH 8
+- due: Monday, 13 October
+  sections:
+  - section: 4.6
+    problems: 5, 13, 16, 17, 22
+
 - name: WRH 7
 - due: Monday, 13 October
   sections:

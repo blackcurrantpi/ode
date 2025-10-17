@@ -94,3 +94,16 @@ daily:
   doc: worksheets/4p4.pdf
   docname: worksheet
 
+- name: Monday 13 October
+  description: Variation of parameters
+  chapter: 4.6
+
+- name: Wednesday 15 October
+  description: Quiz 4
+
+
+- name: Friday 17 October
+  description: Variation of parameters, Cauchy-Euler equations
+  chapter: 4.6, 4.7
+
+
