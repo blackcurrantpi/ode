@@ -106,4 +106,17 @@ daily:
   description: Variation of parameters, Cauchy-Euler equations
   chapter: 4.6, 4.7
 
+- name: Monday 20 October
+  description: Cauchy-Euler equations
+  chapter: 4.7
+
+- name: Wednesday 22 October
+  description: Midterm Review
+
+- name: Friday 24 October
+  description: Midterm Exam
+
+
+
+
 

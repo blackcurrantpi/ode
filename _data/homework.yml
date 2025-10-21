@@ -4,10 +4,12 @@ homework:
 
 
 - name: WRH 8
-- due: Monday, 13 October
+- due: Monday, 27 October
   sections:
   - section: 4.6
     problems: 5, 13, 16, 17, 22
+  - section: 4.7
+    problems: 2, 7, 13, 14, 21, 22
 
 - name: WRH 7
 - due: Monday, 13 October
