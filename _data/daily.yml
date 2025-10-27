@@ -116,7 +116,9 @@ daily:
 - name: Friday 24 October
   description: Midterm Exam
 
-
+- name: Monday 27 October
+  description: Higher order linear models
+  chapter: 5.1
 
 
 

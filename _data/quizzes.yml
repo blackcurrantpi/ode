@@ -27,3 +27,8 @@ exams:
   date: Wednesday, 15 October
   # info: <b>in class</b>
   info: 4.1, 4.2, 4.3, 4.4
+
+- name: Quiz 5
+  date: Wednesday, 29 October
+  # info: <b>in class</b>
+  info: 4.6, 4.7
