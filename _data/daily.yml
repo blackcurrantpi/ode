@@ -120,5 +120,14 @@ daily:
   description: Higher order linear models
   chapter: 5.1
 
+- name: Wednesday 29 October
+  description: Quiz 5, Higher order linear models
+  chapter: 5.1
+
+- name: Friday 31 October
+  description: Higher order linear and non-linear models
+  chapter: 5.1, 5.3
+
+
 
 
