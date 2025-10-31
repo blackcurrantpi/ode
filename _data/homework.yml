@@ -2,13 +2,21 @@ semester: Fall 2025
 home: assets/homework
 homework:
 
+- name: WRH 10
+- due: Monday, 3 November
+  sections:
+  - section: TBD
+    problems: TBD
+  # - section: 7.1
+  #   problems: TBD
+  # - section: 7.2
+
 - name: WRH 9
 - due: Monday, 3 November
   sections:
   - section: 5.1
     problems: 5, 9, 25, 29, 31, 33, 35, 37, 42
-  - section: 5.3
-    problems: TBD
+
 
 - name: WRH 8
 - due: Monday, 27 October
