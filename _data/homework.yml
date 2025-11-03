@@ -3,13 +3,15 @@ home: assets/homework
 homework:
 
 - name: WRH 10
-- due: Monday, 3 November
+- due: Monday, 10 November
   sections:
-  - section: TBD
+  - section: 5.3
+    problems: No problems from the book, instead
+    supp: F25/wrh5p3.pdf
+  - section: 7.1
     problems: TBD
-  # - section: 7.1
-  #   problems: TBD
-  # - section: 7.2
+  - section: 7.2
+    problems: TBDs
 
 - name: WRH 9
 - due: Monday, 3 November

@@ -128,6 +128,8 @@ daily:
   description: Higher order linear and non-linear models
   chapter: 5.1, 5.3
 
-
+- name: Monday 3 November
+  description: Higher order non-linear models, Laplace transform
+  chapter: 5.3, 7.1
 
 
