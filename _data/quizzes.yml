@@ -32,3 +32,8 @@ exams:
   date: Wednesday, 29 October
   # info: <b>in class</b>
   info: 4.6, 4.7
+
+- name: Quiz 6
+  date: Wednesday, 12 November
+  # info: <b>in class</b>
+  info: 5.1, 5.3, 7.1

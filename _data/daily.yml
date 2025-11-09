@@ -136,4 +136,12 @@ daily:
   description: Laplace transform
   chapter: 7.1
 
+- name: Friday 7 November
+  description: Inverse Laplace transform, Laplace transform of derivatives
+  chapter: 7.2
+
+- name: Monday 10 November
+  description: Operational properties of Laplace transform
+  chapter: 7.3
+
 
