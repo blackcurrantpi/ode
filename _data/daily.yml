@@ -144,4 +144,11 @@ daily:
   description: Operational properties of Laplace transform
   chapter: 7.3
 
+- name: Wednesday 12 November
+  description: Quiz 6, Operational properties of Laplace transform
+  chapter: 7.3
+
+- name: Friday 14 November
+  description: Operational properties of Laplace transform
+  chapter: 7.3, 7.4
 
