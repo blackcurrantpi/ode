@@ -150,5 +150,5 @@ daily:
 
 - name: Friday 14 November
   description: Operational properties of Laplace transform
-  chapter: 7.3, 7.4
+  chapter: 7.3
 
