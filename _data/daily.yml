@@ -152,3 +152,14 @@ daily:
   description: Operational properties of Laplace transform
   chapter: 7.3
 
+- name: Monday 17 November
+  description: More on Laplace transform
+  chapter: 7.4
+
+- name: Wednesday 19 November
+  description: DEs and power series
+  chapter: 6.1, 6.2
+
+- name: Friday 21 November
+  description: Des and power series
+  chapter: 6.2, 6.4
