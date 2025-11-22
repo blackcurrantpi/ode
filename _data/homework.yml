@@ -12,15 +12,15 @@ homework:
 #   - section: 8.4
 #     prorblems: TBD
 
-# - name: WRH 12
-# - due: Monday, 27 November
-#   sections:
-#   - section: 6.1
-#     problems: TBD
-#   - section: 6.2
-#     problems: TBD
-#   - section: 6.3
-#     prorblems: TBD
+- name: WRH 12
+- due: Monday, 1 December
+  sections:
+  - section: 7.4
+    problems: 2, 6, 14, 19, 32, 38, 42
+  - section: 6.2
+    problems: 6, 8, 14 (first 4 terms), 19, 27, 32, 33
+  - section: 6.4
+    prorblems: read the section
 
 
 - name: WRH 11

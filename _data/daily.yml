@@ -161,5 +161,9 @@ daily:
   chapter: 6.1, 6.2
 
 - name: Friday 21 November
-  description: Des and power series
+  description: DEs and power series + Bessel functions
   chapter: 6.2, 6.4
+
+- name: Monday 24 November
+  description: Modelling with first systems of first-order ODEs
+  chapter: 3.3
