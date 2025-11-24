@@ -5,8 +5,6 @@ homework:
 # - name: WRH 13
 # - due: Monday, 1/8 November
 #   sections:
-#   - section: 3.3
-#     problems: TBD
 #   - section: 8.1
 #     problems: TBD
 #   - section: 8.4
@@ -20,7 +18,9 @@ homework:
   - section: 6.2
     problems: 6, 8, 14 (first 4 terms), 19, 27, 32, 33
   - section: 6.4
-    prorblems: read the section
+    problems: read the section
+  - section: 3.3
+    problems: 1, 2, 8, 9, 11, 17
 
 
 - name: WRH 11

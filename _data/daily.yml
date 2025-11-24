@@ -165,5 +165,5 @@ daily:
   chapter: 6.2, 6.4
 
 - name: Monday 24 November
-  description: Modelling with first systems of first-order ODEs
+  description: Modelling with systems of first-order ODEs
   chapter: 3.3
