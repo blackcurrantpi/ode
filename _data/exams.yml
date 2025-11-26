@@ -8,7 +8,7 @@ exams:
   #blank: midterm.pdf
   #solutions: midsolns.pdf
 - name: Final Exam
-  date: Friday, December 12
-  info: <b>in class, 10:15am-12:15pm</b>
+  date: Friday, December 12 <b>10:15am-12:15pm, in class</b>
+  info: Midterm contents + 4.6, 4.7, 5.1, 5.3, 7.1, 7.2, 7.3, 7.4, 6.1, 6.2, 6.4, 3.3, 8.1, 8.4
   #reviewguide: finalreview.pdf
   #rubric: finalrubric.pdf

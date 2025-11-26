@@ -167,3 +167,14 @@ daily:
 - name: Monday 24 November
   description: Modelling with systems of first-order ODEs
   chapter: 3.3
+
+- name: Monday 1 December
+  description: TBD
+  chapter: 8.1
+
+- name: Wednesday 3 December
+  description: TBD
+  chapter: 8.4
+
+- name: Friday 5 December
+  description: review
