@@ -8,7 +8,8 @@ homework:
   - section: 8.1
     problems: 3, 4, 12, 15, 19, 20, 22
   - section: 8.4
-    problems: TBD
+    problems: No problems from the book, instead
+    supp: F25/wrh8p4.pdf
 
 - name: WRH 12
 - due: Monday, 1 December
