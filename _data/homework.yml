@@ -2,13 +2,13 @@ semester: Fall 2025
 home: assets/homework
 homework:
 
-# - name: WRH 13
-# - due: Monday, 1/8 November
-#   sections:
-#   - section: 8.1
-#     problems: TBD
-#   - section: 8.4
-#     prorblems: TBD
+- name: WRH 13
+- due: Monday, 8 December
+  sections:
+  - section: 8.1
+    problems: 3, 4, 12, 15, 19, 20, 22
+  - section: 8.4
+    problems: TBD
 
 - name: WRH 12
 - due: Monday, 1 December

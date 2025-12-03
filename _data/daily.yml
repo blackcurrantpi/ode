@@ -171,6 +171,8 @@ daily:
 - name: Monday 1 December
   description: Linear Systems
   chapter: 8.1
+  doc: codes/brines.m
+  docname: Matlab example
 
 - name: Wednesday 3 December
   description: Matrix exponential
