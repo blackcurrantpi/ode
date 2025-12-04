@@ -180,3 +180,5 @@ daily:
 
 - name: Friday 5 December
   description: review
+  doc: worksheets/table.pdf
+  docname: Some useful formulae
