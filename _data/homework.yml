@@ -2,117 +2,117 @@ semester: Fall 2025
 home: assets/homework
 homework:
 
-- name: WRH 13
-- due: Monday, 8 December
-  sections:
-  - section: 8.1
-    problems: 3, 4, 12, 15, 19, 20, 22
-  - section: 8.4
-    problems: No problems from the book, instead
-    supp: F25/wrh8p4.pdf
+# - name: WRH 13
+# - due: Monday, 8 December
+#   sections:
+#   - section: 8.1
+#     problems: 3, 4, 12, 15, 19, 20, 22
+#   - section: 8.4
+#     problems: No problems from the book, instead
+#     supp: F25/wrh8p4.pdf
 
-- name: WRH 12
-- due: Monday, 1 December
-  sections:
-  - section: 7.4
-    problems: 2, 6, 14, 19, 32, 38, 42
-  - section: 6.2
-    problems: 6, 8, 14 (first 4 terms), 19, 27
-  - section: 6.4
-    problems: read the section
-  - section: 3.3
-    problems: 1, 2, 8, 9, 11, 17
+# - name: WRH 12
+# - due: Monday, 1 December
+#   sections:
+#   - section: 7.4
+#     problems: 2, 6, 14, 19, 32, 38, 42
+#   - section: 6.2
+#     problems: 6, 8, 14 (first 4 terms), 19, 27
+#   - section: 6.4
+#     problems: read the section
+#   - section: 3.3
+#     problems: 1, 2, 8, 9, 11, 17
 
 
-- name: WRH 11
-- due: Monday, 17 November
-  sections:
-  - section: 7.2
-    problems: 4, 12, 20, 26, 36, 38, 43
-  - section: 7.3
-    problems: 4, 16, 18, 26, 40, 42, 46, 61, 66
-  - section: 7.4
-    problems: <s>TBD</s> moved to WRH 12
+# - name: WRH 11
+# - due: Monday, 17 November
+#   sections:
+#   - section: 7.2
+#     problems: 4, 12, 20, 26, 36, 38, 43
+#   - section: 7.3
+#     problems: 4, 16, 18, 26, 40, 42, 46, 61, 66
+#   - section: 7.4
+#     problems: <s>TBD</s> moved to WRH 12
   
 
-- name: WRH 10
-- due: Monday, 10 November
-  sections:
-  - section: 5.3
-    problems: No problems from the book, instead
-    supp: F25/wrh5p3.pdf
-  - section: 7.1
-    problems: 2, 7, 12, 25, 28, 32
-  - section: 7.2
-    problems: <s>TBD</s> moved to WRH 11
+# - name: WRH 10
+# - due: Monday, 10 November
+#   sections:
+#   - section: 5.3
+#     problems: No problems from the book, instead
+#     supp: F25/wrh5p3.pdf
+#   - section: 7.1
+#     problems: 2, 7, 12, 25, 28, 32
+#   - section: 7.2
+#     problems: <s>TBD</s> moved to WRH 11
 
-- name: WRH 9
-- due: Monday, 3 November
-  sections:
-  - section: 5.1
-    problems: 5, 9, 25, 29, 31, 33, 35, 37, 42
-
-
-- name: WRH 8
-- due: Monday, 27 October
-  sections:
-  - section: 4.6
-    problems: 5, 13, 16, 17, 22
-  - section: 4.7
-    problems: 2, 7, 13, 14, 21, 22
-
-- name: WRH 7
-- due: Monday, 13 October
-  sections:
-  - section: 4.4
-    problems: 1, 2, 5, 7, 10, 19, 28, 34
-
-- name: WRH 6
-- due: Monday, 6 October
-  sections:
-  - section: 4.3
-    problems: 4, 10, 16, 32, 52
-  - section: 4.2
-    problems: 5, 9, 23
+# - name: WRH 9
+# - due: Monday, 3 November
+#   sections:
+#   - section: 5.1
+#     problems: 5, 9, 25, 29, 31, 33, 35, 37, 42
 
 
-- name: WRH 5
-- due: Monday, 29 September
-  sections:
-  - section: 3.2
-    problems: 2, 9, 11, 17, 19,
-  - section: 4.1
-    problems: No problems from the book, instead
-    supp: F25/wrh4p1.pdf
+# - name: WRH 8
+# - due: Monday, 27 October
+#   sections:
+#   - section: 4.6
+#     problems: 5, 13, 16, 17, 22
+#   - section: 4.7
+#     problems: 2, 7, 13, 14, 21, 22
+
+# - name: WRH 7
+# - due: Monday, 13 October
+#   sections:
+#   - section: 4.4
+#     problems: 1, 2, 5, 7, 10, 19, 28, 34
+
+# - name: WRH 6
+# - due: Monday, 6 October
+#   sections:
+#   - section: 4.3
+#     problems: 4, 10, 16, 32, 52
+#   - section: 4.2
+#     problems: 5, 9, 23
+
+
+# - name: WRH 5
+# - due: Monday, 29 September
+#   sections:
+#   - section: 3.2
+#     problems: 2, 9, 11, 17, 19,
+#   - section: 4.1
+#     problems: No problems from the book, instead
+#     supp: F25/wrh4p1.pdf
 
 
 
-- name: WRH 4
-- due: Monday, 22 September
-  sections:
-  - section: 2.6
-    problems: No problems from the book, instead
-    supp: F25/wrh2p6.pdf
-  - section: 3.1
-    problems: 5, 19, 21, 36, 38, 45
+# - name: WRH 4
+# - due: Monday, 22 September
+#   sections:
+#   - section: 2.6
+#     problems: No problems from the book, instead
+#     supp: F25/wrh2p6.pdf
+#   - section: 3.1
+#     problems: 5, 19, 21, 36, 38, 45
 
 
-- name: WRH 3
-- due: Monday, 15 September
-  sections:
-  - section: 2.2
-    problems: 7, 13, 23, 29, 47, 49
-  - section: 2.3
-    problems: 15, 31, 33, 45, 57
-  - section: 2.4
-    problems: 9, 13, 23, 25, 28
+# - name: WRH 3
+# - due: Monday, 15 September
+#   sections:
+#   - section: 2.2
+#     problems: 7, 13, 23, 29, 47, 49
+#   - section: 2.3
+#     problems: 15, 31, 33, 45, 57
+#   - section: 2.4
+#     problems: 9, 13, 23, 25, 28
 
-- name: WRH 2
-- due: Monday, 8 September
-  sections:
-  - section: 2.1
-    problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
-    supp: F25/readme_wrh02.pdf
+# - name: WRH 2
+# - due: Monday, 8 September
+#   sections:
+#   - section: 2.1
+#     problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
+#     supp: F25/readme_wrh02.pdf
 
 - name: WRH 1
 - due: Sunday, 31 August
