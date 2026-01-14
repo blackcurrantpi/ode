@@ -3,7 +3,7 @@ layout: course-page
 title: Sasha's Math F302 at UAF
 ---
 
-# CAUTION: STILL UNDER CONSTRUCTION!!
+<!-- # CAUTION: STILL UNDER CONSTRUCTION!! -->
 
 Welcome to the public homepage of **Math F302 Ordinary Differential Equations**, Spring 2026, in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
@@ -11,9 +11,9 @@ Welcome to the public homepage of **Math F302 Ordinary Differential Equations**,
 
 Email me at [obobrovnikov@alaska.edu](mailto:obobrovnikov@alaska.edu).  I hold office hours
 
-* on Monday (time TBD) at Chapman 303a or Chapman 305, depending on the size of the crowd;
+* on Monday 11:45am--12:45pm at Chapman 303a or Chapman 305, depending on the size of the crowd;
 
-* on Wednesday (time TBD) at the  Student Success Center, 6th Floor Room 672 Rasmuson Library;
+* on Wednesday 12:00--1:00pm at the  Student Success Center, 6th Floor Room 672 Rasmuson Library;
 
 * by appointment (email me).
 
