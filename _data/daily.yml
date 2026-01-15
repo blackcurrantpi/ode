@@ -11,13 +11,13 @@ daily:
   #doc: slides/F24/polynonewt.pdf
   #docname: "PDF slides: How to put a polynomial through points"
 
-# - name: Wednesday 27 August
-#   description: Initial value problems
-#   chapter: 1.2
+- name: Wednesday 14 January
+  description: Initial value problems
+  chapter: 1.2
 
-# - name: Friday 29 August
-#   description: Differential equations as mathematical models
-#   chapter: 1.3
+- name: Friday 16 January 
+  description: Differential equations as mathematical models
+  chapter: 1.3
 
 # - name: Wednesday 3 September
 #   description: Quiz 1
