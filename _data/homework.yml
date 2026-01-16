@@ -115,7 +115,7 @@ homework:
 #     supp: F25/readme_wrh02.pdf
 
 - name: WRH 1
-- due: Sunday, 31 August
+- due: Monday, 19 January
   sections:
   - section: 1.1
     problems: 3, 5, 6, 13, 23, 25, 33, 43
