@@ -107,12 +107,18 @@ homework:
 #   - section: 2.4
 #     problems: 9, 13, 23, 25, 28
 
-# - name: WRH 2
-# - due: Monday, 8 September
-#   sections:
-#   - section: 2.1
-#     problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
-#     supp: F25/readme_wrh02.pdf
+- name: WRH 2
+- due: Monday, 2 February
+  sections:
+  - section: 2.1
+    problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
+    supp: F25/readme_wrh02.pdf
+  - section: 2.2
+    problems: TBD #7, 13, 23, 29, 47, 49
+  - section: 2.3
+    problems: TBD #15, 31, 33, 45, 57
+  - section: 2.4
+    problems: TBD #9, 13, 23, 25, 28
 
 - name: WRH 1
 - due: Monday, 19 January
