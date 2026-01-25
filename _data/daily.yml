@@ -29,16 +29,18 @@ daily:
 - name: Friday 5 September
   description: Solution curves cont.
   chapter: 2.1.2
-  doc: worksheets/2p1_int_backup.pdf
-  docname: worksheet (integrals)
+  # doc: worksheets/2p1_int_backup.pdf
+  # docname: worksheet (integrals)
   # doc: codes/direction_field.py
   # docname: Direction field plotter for Python
   # otherurl: https://www.wolframalpha.com
   # otherurlname: "WolframAlpha can also plot direction fields"
 
-# - name: Monday 8 September
-#   description: Separable DE
-#   chapter: 2.2
+- name: Monday 26 January
+  description: Separable DE
+  chapter: 2.2
+  doc: worksheets/2p1_int_backup.pdf
+  docname: worksheet (integrals)
 
 # - name: Wednesday 10 September
 #   description: Linear first order DE
