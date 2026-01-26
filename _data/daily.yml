@@ -42,9 +42,9 @@ daily:
   doc: worksheets/2p1_int_backup.pdf
   docname: worksheet (integrals)
 
-# - name: Wednesday 10 September
-#   description: Linear first order DE
-#   chapter: 2.3
+- name: Wednesday 28 September
+  description: Linear first order DE
+  chapter: 2.3
 
 # - name: Friday 12 September
 #   description: Exact equations
