@@ -13,10 +13,11 @@ exams:
 #   info: <b>in class</b>
 #   #reviewguide: finalreview.pdf
 #   #rubric: finalrubric.pdf
-# - name: Quiz 2
-#   date: Wednesday, 17 September
-#   # info: <b>in class</b>
-#   info: 2.1, 2.2, 2.3, 2.4
+
+- name: Quiz 2
+  date: Wednesday, 4 January
+  # info: <b>in class</b>
+  info: 2.1, 2.2, 2.3, 2.4, 2.6
 
 # - name: Quiz 3
 #   date: Wednesday, 1 October

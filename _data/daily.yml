@@ -46,11 +46,11 @@ daily:
   description: Linear first order DE
   chapter: 2.3
 
-# - name: Friday 12 September
-#   description: Exact equations
-#   chapter: 2.4
-#   doc: worksheets/2p2_2p3.pdf
-#   docname: worksheet
+- name: Friday 30 January
+  description: Exact equations
+  chapter: 2.4
+  doc: worksheets/2p2_2p3.pdf
+  docname: worksheet
 
 # - name: Monday 15 September
 #   description: Euler's method
