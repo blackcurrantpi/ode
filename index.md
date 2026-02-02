@@ -25,9 +25,9 @@ Log in to [canvas.alaska.edu/courses/30047](https://canvas.alaska.edu/courses/30
 
 * Attend lectures: MWF 9:15--10:15am in Chapman 104.
 
-* Read the [Syllabus (PDF)](assets/general/F25/syllabus.pdf).
+* Read the [Syllabus (PDF)](assets/general/s26/syllabus.pdf).
 
-* The [Schedule (PDF)](assets/general/F25/schedule.pdf) is my longer-term plan.  Check it for exam dates and due dates, and for which topics come next!
+* The [Schedule (PDF)](assets/general/s26/schedule.pdf) is my longer-term plan.  Check it for exam dates and due dates, and for which topics come next!
 
 * The [daily log](daily) has upcoming and recent happenings, including handouts and worksheets as PDFs.
 
