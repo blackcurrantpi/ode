@@ -94,7 +94,7 @@ homework:
     problems: 9, 13, 23, 25, 28
   - section: 2.6
     problems: No problems from the book, instead
-    supp: F25/wrh2p6.pdf
+    supp: s26/wrh2p6.pdf
   - section: 3.1
     problems: 5, 19, 21, 36, 38, 45
 
@@ -106,7 +106,7 @@ homework:
   sections:
   - section: 2.1
     problems: "1 (a,b), 7 (a,b), 21, 25, 28, 39, 41"
-    supp: F25/readme_wrh02.pdf
+    supp: s26/readme_wrh02.pdf
   - section: 2.2
     problems: 7, 13, 23, 29, 47, 49
   - section: 2.3
