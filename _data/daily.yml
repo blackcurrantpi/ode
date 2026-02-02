@@ -52,12 +52,12 @@ daily:
   doc: worksheets/2p2_2p3.pdf
   docname: worksheet
 
-# - name: Monday 15 September
-#   description: Euler's method
-#   chapter: 2.6
+- name: Monday 2 February
+  description: Euler's method
+  chapter: 2.6
 
-# - name: Wednesday 17 September
-#   description: Quiz 2
+- name: Wednesday 4 February
+  description: Quiz 2
 
 # - name: Friday 19 September
 #   description: Linear models
