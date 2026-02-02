@@ -87,16 +87,16 @@ homework:
 
 
 
-# - name: WRH 3
-# - due: Monday, 9 February
-#   sections:
-#   - section: 2.4
-#     problems: 9, 13, 23, 25, 28
-#   - section: 2.6
-#     problems: No problems from the book, instead
-#     supp: s26/wrh2p6.pdf
-#   - section: 3.1
-#     problems: 5, 19, 21, 36, 38, 45
+- name: WRH 3
+- due: Monday, 9 February
+  sections:
+  - section: 2.4
+    problems: 9, 13, 23, 25, 28
+  - section: 2.6
+    problems: No problems from the book, instead
+    supp: s26/wrh2p6.pdf
+  - section: 3.1
+    problems: 5, 19, 21, 36, 38, 45
 
 
 
