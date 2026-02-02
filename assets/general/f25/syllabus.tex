@@ -1,0 +1,327 @@
+\documentclass[12pt]{article}
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+\usepackage[colorlinks=true]{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=[rgb]{.75,.15,.10},
+citecolor=[rgb]{.35,.65,.55},
+urlcolor=[rgb]{.88,.33,.88}}
+    
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+\def\tableindent{\hskip 0.5 in}
+\def\ts{\hskip 1.5 em}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{\large\sf\textbf{MATH F302 Differential Equations}}
+\rhead{Fall 2025 (Bobrovnikov)%; \textsl{updated}
+}
+
+\newcommand{\localhead}[1]{\par\smallskip\textbf{#1}\nobreak\\}%
+\def\heading#1{\localhead{\large\emph{#1}}}
+\def\subheading#1{\localhead{\emph{#1}}}
+
+\newenvironment{clist}%
+{\bgroup\parskip 0pt\begin{list}{$\bullet$}{\partopsep 4pt\topsep 0pt\itemsep -2pt}}%
+{\end{list}\egroup}%
+
+
+\begin{document}
+
+\begin{center}
+{\Huge \strut}{\LARGE\sf \textbf{Syllabus}}
+\end{center}
+
+\heading{Instructor: \quad Oleksandr Bobrovnikov}
+
+\quad \begin{tabularx}{\textwidth}{lX}
+email        & \href{mailto:obobrovnikov@alaska.edu}{\texttt{obobrovnikov@alaska.edu}} \\
+office       & Chapman 303A \\
+office hours \phantom{jfxdsd} & posted \href{http://blackcurrantpi.github.io/ode}{\tt here} and by appointment
+\end{tabularx}
+
+\bigskip
+
+\heading{Essentials}
+
+\quad \begin{tabularx}{\textwidth}{lX}
+\emph{Course Information} & \hspace{-3mm} \begin{tabular}[t]{l}
+                  MATH F302 Differential Equations (3.0 credits) \\
+                  CRN:\, 73248 (section 901) \\
+                  time:\, 10:30--11:30am \\
+                  room:\, Duckering 342 (\emph{in person}) \\
+                  \end{tabular} \\
+ & \\
+\emph{Prerequisite}      & Grade of at least C- in MATH 253 Calculus III or equivalent. \\
+ & \\
+\emph{Websites} & \hspace{-3mm} \begin{tabular}[t]{ll}
+                  \href{https://blackcurrantpi.github.io/ode/}{\tt blackcurrantpi.github.io/ode} \phantom{dsj adslfj} & main course page \\
+                  \href{https://canvas.alaska.edu/courses/27085}{\tt canvas.alaska.edu/courses/27085} \, (Canvas) & grades and solutions
+                  \end{tabular} \\
+ & \\
+\emph{Required Text}     & \textsl{
+    % A First Course in Differential Equations with Modeling Applications}, 11th ed., Dennis G. Zill, 2018 (ISBN-13:\, \texttt{978-1337604994})
+    A First Course in Differential Equations with Modeling Applications},
+    11th ed.,
+    Dennis G. Zill [with WebAssign access]. WA access code with access to e-book ISBN: 978-1337652469. Loose pages textbook with WA access (and
+    also e-book) ISBN: 978-1337604994.
+    \\
+ & \\
+\emph{\underline{Optional} Text}     & \textit{Student Solutions Manual for Zill's A First Course in Differential Equations with Modeling Applications}, 11th ed.~(ISBN-13:\, \texttt{978-1305965737}) \\
+    & (Solutions to selected odd-numbered exercises.) \\
+ & \\
+\end{tabularx}
+
+\medskip
+
+%\newpage
+\cfoot{\thepage}
+%\strut
+
+\heading{Detailed Schedule}
+The schedule of topics and due dates will be kept up-to-date at
+
+\smallskip
+\centerline{\href{https://blackcurrantpi.github.io/ode/assets/general/F25/schedule.pdf}{\tt blackcurrantpi.github.io/ode/assets/general/F25/schedule.pdf}}
+
+You should consult this schedule frequently and routinely.  It is tentative and subject to change.
+
+
+\medskip
+\heading{Course Description}
+Most physical laws of nature take the form of differential equations.  So do many of the models used in engineering, finance, and the social sciences.  Differential equations describe smoothly-changing functions (solutions) using either ordinary or partial derivatives.  This course is about \textsl{ordinary differential equations}.  Partial differential equations are covered in MATH 421 Applied Analysis, which is a sequel to this course.
+
+The need to understand differential equations is the single most important reason why students in technical majors are expected to learn calculus.  We will mostly use the derivatives, integrals, and series from calculus I (MATH 251) and II (MATH 252), but some content from calculus III (MATH 253), especially visualisation of functions in multiple variables, is also used.
+
+
+\bigskip\bigskip
+% \clearpage\newpage
+\heading{Course Goals and Outcomes}
+Here is the catalog description: \, \textsl{Nature and origin of differential equations, first order equations and solutions, linear differential equations with constant coefficients, systems of equations, power series solutions, operational methods, and applications.}
+
+A passing grade from this course indicates that you are able to:
+
+\begin{clist}
+\item understand the language of ordinary differential equation (ODE) initial value problems,
+\item use and construct basic models based on differential equations,
+\item use well-known methods for generating solutions to common first-order ODEs,
+\item find the exponential solutions of 1st- and 2nd-order homogeneous linear ODEs
+\item solve 2nd-order linear ODEs by methods including series and Laplace transforms
+\item understand linear systems of ODEs and their matrix-exponential solutions, and
+\item understand and apply well-known numerical methods to solve initial value problems.
+\end{clist}
+
+
+\heading{Assessments and Assignments}
+Student performance is primarily assessed by six in-class Quizzes and two in-class Exams.  Homework assignments are due more frequently.  See the \href{https://blackcurrantpi.github.io/ode/assets/general/F25/schedule.pdf}{Schedule}.
+ 
+
+\subheading{Quizzes}% (\underline{\textsl{updated}})}
+Every other week there will be a 25 minute Quiz, at the start of class on Wednesday.  It will cover the material taught in the previous two weeks.  Quizzes are equally weighted, and are given under Exam testing conditions, and they are practice for the Exams.  (Quiz performance is the best predictor of Exam performance.)  Books, notes, and calculators are \emph{not} allowed.  The lowest Quiz grade will be dropped.  Solutions to Quizzes will be handed out on paper immediately, and posted on the \href{https://canvas.alaska.edu/courses/27085}{Canvas site}.  Immediately after the Quiz will be a 15 minute de-brief, where we all talk through the solutions.  Then the lecture for that day will resume.
+
+
+\subheading{Exams}
+There is a Midterm Exam on Friday 24 October and a Final Exam 10:15am--12:15pm on Friday 12 December.   Books, notes, and calculators are \emph{not} allowed.  Solutions will be posted on the \href{https://canvas.alaska.edu/courses/27085}{Canvas site}.
+
+
+\subheading{Homework}
+% Each textbook section will correspond to a Homework assignment, due through Gradescope at 11:59pm on the date indicated on the \href{https://bueler.github.io/math302/assets/general/F23/schedule.pdf}{Schedule}.  (The Gradescope page is accessed through the \href{https://canvas.alaska.edu/courses/27085}{Canvas site}.)  Homework assignments are designed to help you learn!  I will grade a few selected-in-advance problems for correctness, with the remaining problems graded for completion only.  See the \href{https://bueler.github.io/math302/homework.html}{Homework tab} for the problems.
+Homework will consist of two parts (each 10\% of the total grade): WebAssign (WA)
+and written (WRH). WA will typically be on one section with the deadline next day.
+Assignments will be posted on the public webpage:
+{\href{https://blackcurrantpi.github.io/ode/homework.html}{\tt blackcurrantpi.github.io/ode/homework.html}}.
+WRH will typically be
+due Monday by 11:59 pm as a single pdf file via Gradescope. (The Gradescope page is accessed through the \href{https://canvas.alaska.edu/courses/27085}{Canvas site}.) Keep in mind
+\begin{enumerate}%[1.]
+    \item \textbf{No late homework will be accepted} as solutions are posted but about 20\% of lowest grades for each category (WA, WRH) will be dropped at the end. \textbf{No request for extension will be considered.}
+    \item WRH solutions should be neat and show all relevant work. It is a good idea to first work the problems on scratch paper and then rewrite the final solution on clean paper before scanning and submitting.
+    \item In each WRH set enumerate problems consecutively (1, 2, \dots) and circle each \#. This \# must be followed by chapter \#, section \#, problem \#. This rule is firm and WRH will not be accepted otherwise (zero grade).
+    \item Typically, WRH will be graded for completeness but I reserve the right to grade some problems rigorously. I may assign zero for solutions that miss important steps and/or scans are not readable.
+\end{enumerate}
+
+
+\heading{Office Hours}
+I will hold office hours in Chapman 303A as shown at
+
+\smallskip
+\centerline{\href{http://blackcurrantpi.github.io/ode}{\tt blackcurrantpi.github.io/ode}}
+
+
+% \clearpage\newpage
+\heading{Grades}
+Grades are determined as follows.
+
+\vspace{-5mm}
+\begin{tabular}{ll}
+\begin{minipage}{0.5\textwidth}
+\begin{tabular}{|l|c|}
+\hline
+Homework     & 20\% \\
+\hline
+Quizzes      & 30\% \\
+\hline
+Midterm Exam & 20\% \\
+\hline
+Final Exam   & 30\% \\
+\hline
+\textsl{total} & 100\%\\
+\hline
+\end{tabular}
+\end{minipage}
+
+&
+\begin{minipage}{0.5\textwidth}
+Letter grades will be assigned on this scale, which is a guarantee; I reserve the right to lower thresholds.
+
+\medskip
+\begin{tabular}{llll}
+A+ & 97--100\% \quad\strut & C+ & 77--79\% \\
+A & 93--96\% &  C & 70--76\% \\
+A- & 90--92\% & C- & not given \\
+B+ & 87--89\% & D+ & 67--69\% \\
+B &  83--86\% & D & 63--66\% \\
+B- & 80-82\% & D- & 60--62\% \\
+ & & F  & $<$ 60\%
+\end{tabular}
+\end{minipage}
+\end{tabular}
+
+
+\heading{Tutoring and Resources}
+UAF Math Services (\href{http://www.uaf.edu/dms/mathlab/}{\texttt{uaf.edu/dms/mathlab}}) offers the following tutoring:
+\begin{clist}
+	\item Walk-in tutoring, with no appointment needed, at the Math and Stat Lab, Student Success Center (6th Floor Rasmuson building).   Only a subset of the tutors can help with MATH 302.
+	\item Free online tutoring.
+	\item Free one-on-one (or small group) tutoring at Student Success Center.
+\end{clist}
+
+Additional services:
+\begin{clist}
+	\item Student Support Services may offer free tutoring to students who qualify for their program.
+	\item ASUAF may offer private tutoring for a small fee (based on student income).
+\end{clist}
+
+
+\bigskip
+\heading{Rules and Policies}
+\vskip -15pt
+\subheading{Participation}
+Class participation is mandatory.  Students who stop participating in the course will be withdrawn.  Examples of inadequate participation include, but are not limited to:
+
+\begin{clist}
+\item not completing or not turning in \textbf{three} Homework assignments
+\item repeatedly failing Quizzes or Exams
+\end{clist}
+
+\subheading{Disability Services}
+The Office of Disability Services (ODS) implements the Americans with Disabilities Act to ensure that UAF students have equal access to the campus and course materials.  I will work with ODS (208 Whitaker, 474-5655) to provide reasonable accommodations to students with disabilities.
+
+\subheading{Student Protections and Services}
+Every qualified student is welcome in this class.  I am happy to work with you, ODS, Military and Veteran Services, Rural Student Services, etc.~to find reasonable accommodations.  Students at this university are protected against sexual harassment and discrimination (Title IX), and minors have additional protections. \textit{As required,} if I notice or am informed of \textit{certain types} of misconduct, then I am required to report it to the appropriate authorities.  For more information on your rights as a student and the resources available to you, please go to \href{https://www.uaf.edu/handbook/}{\texttt{www.uaf.edu/handbook}}.
+
+
+\subheading{Incomplete Grade} 
+An incomplete (I) grade will only be given in DMS courses if the student has completed the majority (normally all but the last three weeks) of a course with a grade of C or better, but for personal reasons beyond his/her control has been unable to complete the course during the regular term. Negligence or indifference are not acceptable reasons for the granting of an incomplete grade. 
+
+\subheading{Withdrawals}
+I reserve the right to \textbf{withdraw you from class if you maintain 55\% or less} by the instructor initiated withdrawal deadline. I use this option if I feel strongly that the situation is hopeless. I need not inform you about this but if you prefer F over W, you must contact me in a timely manner. Also, if you prefer W over a potential F you should withdraw (don't assume that I will do it for you). Make sure you do so before the deadline.
+
+\subheading{Late Withdrawals} 
+A withdrawal after the deadline from a DMS course will normally be granted only in cases where the student is performing satisfactorily (i.e., C or better) in a course, but has exceptional reasons, beyond his/her control, for being unable to complete the course. These exceptional reasons should be detailed in writing to the instructor, department head and dean.
+
+\subheading{No Early Final Examinations}
+Final examinations for DMS courses shall not be held earlier than the date and time published in the official term schedule. Normally, a student will not be allowed to take a final exam early. Exceptions can be made by individual instructors, but should only be allowed in exceptional circumstances and in a manner which doesn't endanger the security of the exam.
+
+\subheading{Academic Dishonesty}
+Academic dishonesty, including cheating and plagiarism, will not be tolerated.  It is a violation of the Student Code of Conduct and will be punished according to UAF procedures.
+
+\subheading{AI (Artificial Intelligence) use policy}
+Since all quizzes and exams are closed-book, you may only use AI platforms (as well
+as any other online sources) for homework. This may help you internalise concepts
+and procedures. Keep in mind however that, since homework makes up only 10\% of
+the grade, my experience definitively says that \textbf{copying solutions with little
+understanding of them will not help you pass this course}. So, use AI not abuse it.
+
+\subheading{Syllabus addendum}
+The \href{https://drive.google.com/file/d/1dzZNW-DiD47BXhCc8_a6rbMGjvII53RI/view?usp=sharing}{online Syllabus Addendum} is part of this syllabus.
+\begin{center}
+    \textbf{\large{Official UAF Syllabus Addendum}}
+    \end{center}
+    
+    
+    \noindent{\bf Student protections statement:} The university respects and upholds the principles of due process and a fair and equitable process as specified in the Board of Regents' Policy 09.02 Student Rights and Responsibilities. For more information regarding the rights and responsibilities of students, refer to the Office of Rights, Compliance and Accountability website. You are encouraged to read the Board of Regents' policy carefully to fully understand your responsibilities to our community.
+    
+    We strive to create a safe and respectful environment for all members of our community. If you have questions about expectations of you as a student or believe your rights are being violated, we encourage you to reach out to the  Office of Rights, Compliance and Accountability for help. UAF reserves the right to suspend, expel or take other necessary and appropriate action in cases where a student is unable or unwilling to uphold community standards and campus safety.
+    
+    For more information on your rights as a student and the resources available to you to resolve problems, please go to the following site:\\ {https://catalog.uaf.edu/academics-regulations/students-rights-responsibilities/}
+    
+    \noindent{\bf Disability services statement:} I will work with the Office of Disability Services to provide reasonable accommodation to students with disabilities.
+    
+    \noindent{\bf ASUAF advocacy statement:} The Associated Students of the University of Alaska Fairbanks, the student government of UAF, offers advocacy services to students who feel they are facing issues with staff, faculty, and/or other students specifically if these issues are hindering the ability of the student to succeed in their academics or go about their lives at the university. Students who wish to utilize these services can contact the Student Advocacy Director by visiting the ASUAF office or emailing asuaf.office@alaska.edu. 
+    
+    
+    
+    \noindent{\bf Student Academic Support:}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+            \item Communication Center (907-474-7007, {uaf-commcenter@alaska.edu}, Student Success Center, 6th Floor Room 677 Rasmuson Library)
+            \item Writing Center (907-474-5314, {uaf-writing-center@alaska.edu}, Student Success Center, 6th Floor Room 677 Rasmuson Library)
+    \item UAF Math Services (907-474-7332, {uaf-traccloud@alaska.edu})
+    
+    
+    \begin{itemize}
+    \item Drop-in tutoring, Student Success Center, 6th Floor Room 672 Rasmuson Library
+    
+    \item 1:1 tutoring (by appointment only), 6th Floor Room 677 Rasmuson Library
+    
+    \item Online tutoring (by appointment only) available
+    
+    https://www.uaf.edu/dms/mathlab/, available at the Student Success Center
+    \end{itemize}
+    
+    \item Developmental Math Lab, Gruening 406
+    \item The Debbie Moses Learning Center at CTC (907-455-2860, 604 Barnette St, Room 120,\\ {https://www.ctc.uaf.edu/student-services/student-success-center/})
+    \item For more information and resources, please see the Academic Advising Resource List \\({https://www.uaf.edu/advising/students/index.php})
+    \end{itemize}
+    
+    \noindent{\bf Student Resources:}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Disability Services (907-474-5655, {uaf-disability-services@alaska.edu}, 110 Eielson Building)
+    \item Student Health \& Counseling [free counseling sessions available] (907-474-7043,\\{https://www.uaf.edu/chc/appointments.php}, Whitaker Building, Room 206, Health, Safety \& Security Bldg --- same building as Fire and Police)
+    \item Office of Rights, Compliance and Accountability (907-474-7300, {uaf-orca@alaska.edu}, 3rd Floor, Constitution Hall)
+    \item Associated Students of the University of Alaska Fairbanks (ASUAF) or ASUAF Student Government (907-474-7355, {asuaf.office@alaska.edu}, Wood Center 119)
+    \end{itemize}
+    
+    \noindent{\bf Nondiscrimination statement:}
+    Nondiscrimination statement: The University of Alaska is an equal opportunity/equal access employer, educational institution and provider. The University of Alaska does not discriminate on the basis of race, religion, color, national origin, citizenship, age, sex, physical or mental disability, status as a protected veteran, marital status, changes in marital status, pregnancy, childbirth or related medical conditions, parenthood, sexual orientation, gender identity, political affiliation or belief, genetic information, or other legally protected status. The University's commitment to nondiscrimination, including against sex discrimination, applies to students, employees, and applicants for admission and employment. Contact information, applicable laws, and complaint procedures are included on UA's statement of nondiscrimination available at \url{www.alaska.edu/nondiscrimination}.
+    
+    \begin{tabular}{l}
+    UAF Office of Rights, Compliance and Accountability\\
+    1692 Tok Lane\\
+    3rd floor, Constitution Hall, Fairbanks, AK 99775\\
+    907-474-7300\\
+    \url{uaf-orca@alaska.edu}
+    \end{tabular}
+
+\vfill
+\hfill \scriptsize syllabus version: \today \normalsize
+
+\end{document}
