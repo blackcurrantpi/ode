@@ -36,6 +36,6 @@ Log in to [canvas.alaska.edu/courses/30047](https://canvas.alaska.edu/courses/30
 * There will be two exams, a Midterm and a Final.  Both are in class, on paper, and without electronic technology of any kind.  The Final will happen at the scheduled time.  See the [Exams](exams) tab.  Note that I will prepare review guides as we approach the exams.
 
 ---
-_Site design derived from [coordinated Calc I](https://uaf-math251.github.io/), an original [Jekyll](https://jekyllrb.com/) design by [David Maxwell](https://damaxwell.github.io/). Design of this particular page was borrowed from [Ed Bueler](https://bueler.github.io)._
+_Site design derived from [coordinated Calc I](https://uaf-math.github.io/calc1/), an original [Jekyll](https://jekyllrb.com/) design by [David Maxwell](https://damaxwell.github.io/). Design of this particular page was borrowed from [Ed Bueler](https://bueler.github.io)._
 
 [<img src="assets/images/GitHub-Mark-32px.png" align="right">](https://github.com/blackcurrantpi/ode "github repository for this site")
