@@ -59,13 +59,13 @@ daily:
 - name: Wednesday 4 February
   description: Quiz 2
 
-# - name: Friday 19 September
-#   description: Linear models
-#   chapter: 3.1
+- name: Friday 6 February 
+  description: Linear models
+  chapter: 3.1
 
-# - name: Monday 22 September
-#   description: Non-linear models
-#   chapter: 3.2
+- name: Monday 9 February 
+  description: Non-linear models
+  chapter: 3.2
 
 # - name: Wednesday 24 September
 #   description: Non-linear models (cont.)
