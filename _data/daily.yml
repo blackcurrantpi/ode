@@ -66,6 +66,8 @@ daily:
 - name: Monday 9 February 
   description: Non-linear models
   chapter: 3.2
+  doc: codes/logistics.py
+  docname: Code for Problem 3.2.4
 
 # - name: Wednesday 24 September
 #   description: Non-linear models (cont.)

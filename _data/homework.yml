@@ -76,14 +76,14 @@ homework:
 #     problems: 5, 9, 23
 
 
-# - name: WRH 5
-# - due: Monday, 29 September
-#   sections:
-#   - section: 3.2
-#     problems: 2, 9, 11, 17, 19,
-#   - section: 4.1
-#     problems: No problems from the book, instead
-#     supp: F25/wrh4p1.pdf
+- name: WRH 4
+- due: Monday, 16 February
+  sections:
+  - section: 3.2
+    problems: 2, 9, 11, 17, 19,
+  - section: 4.1
+    problems: TBD #No problems from the book, instead
+    # supp: F25/wrh4p1.pdf
 
 
 
