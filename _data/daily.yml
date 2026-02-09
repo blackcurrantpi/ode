@@ -68,7 +68,7 @@ daily:
   chapter: 3.2
   doc: codes/logistics.py
   docname: Code for Problem 3.2.4 (.py)
-  otherurl: codes/logistics.m
+  otherurl: assets/codes/logistics.m
   otherurlname: "and Matlab/Octave version"
 
 - name: Wednesday 11 September
