@@ -68,7 +68,7 @@ daily:
   chapter: 3.2
   doc: codes/logistics.py
   docname: Code for Problem 3.2.4 (.py)
-  otherurl: blackcurrantpi.github.io/assets/codes/logistics.m
+  otherurl: codes/logistics.m
   otherurlname: "and Matlab/Octave version"
 
 - name: Wednesday 11 September
