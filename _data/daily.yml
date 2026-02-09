@@ -4,12 +4,12 @@ daily:
 - name: Monday 12 January
   description: Definitions and terminology
   chapter: 1.1
-  #more: x
-  #chapters: x
-  #otherurl: https://www.youtube.com/watch?v=UhZfwzB9E_Q
-  #otherurlname: "YouTube video: simulation of OSIRIS-APEX to asteroid Apophis"
-  #doc: slides/F24/polynonewt.pdf
-  #docname: "PDF slides: How to put a polynomial through points"
+  # more: x
+  # chapters: x
+  # otherurl: https://www.youtube.com/watch?v=UhZfwzB9E_Q
+  # otherurlname: "YouTube video: simulation of OSIRIS-APEX to asteroid Apophis"
+  # doc: slides/F24/polynonewt.pdf
+  # docname: "PDF slides: How to put a polynomial through points"
 
 - name: Wednesday 14 January
   description: Initial value problems
@@ -67,11 +67,13 @@ daily:
   description: Non-linear models
   chapter: 3.2
   doc: codes/logistics.py
-  docname: Code for Problem 3.2.4
+  docname: Code for Problem 3.2.4 (.py)
+  otherurl: blackcurrantpi.github.io/assets/codes/logistics.m
+  otherurlname: "and Matlab/Octave version"
 
-# - name: Wednesday 24 September
-#   description: Non-linear models (cont.)
-#   chapter: 3.2
+- name: Wednesday 11 September
+  description: Two gravity models
+  chapter: 3.2
 
 # - name: Friday 26 September
 #   description: Higher order linear DE
