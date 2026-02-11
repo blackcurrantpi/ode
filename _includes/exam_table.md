@@ -1,29 +1,21 @@
 {% assign data = include.data %}
-<table class="asst-table">
+<table class="asst-table" style="width: 100%;">
 {% for exam in data.exams %}
 <tr>
-  <td>
-      <table class="inner">
+  <td style="width: 70%; vertical-align: top;">
+      <table class="inner" style="width: 100%;">
         <tr>
-            <td>{{ exam.name }} &nbsp; &nbsp; {{ exam.date }}</td>
+            <td style="word-wrap: break-word; overflow-wrap: break-word; white-space: normal;">
+                {{ exam.name }} &nbsp; &nbsp; {{ exam.date }}
+            </td>
         </tr>
-        <!-- {% if exam.info %}
-        <tr>
-            <td>{{ exam.info }}</td>
-        </tr>
-        {% endif %} -->
         {% if exam.info %}
         <tr>
-        <td style="word-wrap: break-word; overflow-wrap: break-word; white-space: normal;">{{ exam.info }}</td>
+            <td style="word-wrap: break-word; overflow-wrap: break-word; white-space: normal; max-width: 300px;">
+                {{ exam.info }}
+            </td>
         </tr>
         {% endif %}
-        <!-- {% if exam.info %}
-        <tr>
-        <td style="word-wrap: break-word; overflow-wrap: break-word; white-space: normal;">
-        <span style="white-space: nowrap;">{{ exam.info | replace: ',', '. ' }}</span>
-        </td>
-        </tr>
-        {% endif %} -->
         {% if exam.reviewguide %}
         <tr>
             <td><a href="{{ data.home }}/{{ exam.reviewguide }}">review guide</a></td>
@@ -41,11 +33,11 @@
         {% endif %}
       </table>
   </td>
-  <td>
-      <table class="inner">
+  <td style="width: 30%; vertical-align: top;">
+      <table class="inner" style="width: 100%;">
         {% if exam.blank %}
         <tr>
-            <td><a href="{{ data.home }}/{{ exam.blank }}">blank</a></td>
+            <td><a href="{{ data.home }}/{{ exam.blank }}">practice exam (blank)</a></td>
         </tr>
         {% endif %}
         {% if exam.solutions %}
@@ -54,7 +46,6 @@
         </tr>
         {% endif %}
       </table>
-      <div style="padding-bottom: 10px"></div>
   </td>
 </tr>
 {% endfor %}

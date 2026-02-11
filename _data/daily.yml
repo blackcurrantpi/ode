@@ -71,13 +71,13 @@ daily:
   otherurl: assets/codes/logistics.m
   otherurlname: "and Matlab/Octave version"
 
-- name: Wednesday 11 September
+- name: Wednesday 11 February
   description: Two gravity models
   chapter: 3.2
 
-# - name: Friday 26 September
-#   description: Higher order linear DE
-#   chapter: 4.1
+- name: Friday 13 February
+  description: Higher order linear DE
+  chapter: 4.1
 
 # - name: Monday 29 September
 #   description: Linear homogenous DE with constant coefficients

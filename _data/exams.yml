@@ -2,13 +2,13 @@ semester: Spring 2026
 home: assets/exams/s26
 exams:
 - name: Midterm Exam
-  date: Friday, March 6 <b>in class</b>
-  # info: 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 2.4, 2.6, 3.1, 3.2, 4.1, 4.2, 4.3, 4.4
+  date: Friday, March 6
+  info: 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 2.4, 2.6, 3.1, 3.2, 4.1, 4.2, 4.3, 4.4, 4.6
   #reviewguide: midreview.pdf
-  #blank: midterm.pdf
-  #solutions: midsolns.pdf
+  blank: practice_mid.pdf
+  solutions: practice_mid_sol.pdf
 - name: Final Exam
-  date: Friday, May 1  <b>8:00-10:00am, in class</b>
+  date: Friday, May 1  <b>8:00-10:00am</b>
   # info: Midterm contents + 4.6, 4.7, 5.1, 5.3, 7.1, 7.2, 7.3, 7.4, 6.1, 6.2, 6.4, 3.3, 8.1, 8.4
   #reviewguide: finalreview.pdf
   #rubric: finalrubric.pdf
