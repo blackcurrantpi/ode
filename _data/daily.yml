@@ -79,16 +79,16 @@ daily:
   description: Higher order linear DE
   chapter: 4.1
 
-# - name: Monday 29 September
-#   description: Linear homogenous DE with constant coefficients
-#   chapter: 4.3
+- name: Monday 16 February
+  description: Reduction of order
+  chapter: 4.2
 
-# - name: Wednesday 1 October
-#   description: Quiz 3
+- name: Wednesday 18 February
+  description: Quiz 3
 
-# - name: Friday 3 October
-#   description: Reduction of order
-#   chapter: 4.2
+- name: Friday 3 October
+  description: Homogeneous linear DE with constant coefficients 
+  chapter: 4.3
 
 # - name: Monday 6 October
 #   description: Higher order DEs

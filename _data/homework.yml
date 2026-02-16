@@ -67,13 +67,16 @@ homework:
 #   - section: 4.4
 #     problems: 1, 2, 5, 7, 10, 19, 28, 34
 
-# - name: WRH 6
-# - due: Monday, 6 October
-#   sections:
-#   - section: 4.3
-#     problems: 4, 10, 16, 32, 52
-#   - section: 4.2
-#     problems: 5, 9, 23
+- name: WRH 5
+- due: Monday, 23 February
+  sections:
+  - section: 4.1
+    problems: 3, 21, 26, 24
+  - section: 4.2
+    problems: 2, 4, 5, 9, 14, 23
+  - section: 4.3
+    problems: 4, 10, 16, 32, 52
+
 
 
 - name: WRH 4
