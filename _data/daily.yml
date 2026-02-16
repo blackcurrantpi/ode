@@ -86,7 +86,7 @@ daily:
 - name: Wednesday 18 February
   description: Quiz 3
 
-- name: Friday 3 October
+- name: Friday 3 February
   description: Homogeneous linear DE with constant coefficients 
   chapter: 4.3
 
