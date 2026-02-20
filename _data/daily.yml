@@ -89,6 +89,10 @@ daily:
 - name: Friday 3 February
   description: Homogeneous linear DE with constant coefficients 
   chapter: 4.3
+  otherurl: https://www.youtube.com/watch?v=-j8PzkZ70Lg
+  otherurlname: "A good video on Euler's formula by 3Blue1Brown"
+
+
 
 # - name: Monday 6 October
 #   description: Higher order DEs
