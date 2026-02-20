@@ -61,11 +61,15 @@ homework:
 #   - section: 4.7
 #     problems: 2, 7, 13, 14, 21, 22
 
-# - name: WRH 7
-# - due: Monday, 13 October
-#   sections:
-#   - section: 4.4
-#     problems: 1, 2, 5, 7, 10, 19, 28, 34
+- name: WRH 6
+- due: Monday, 2 March
+  sections:
+  - section: 4.3
+    problems: 4, 10, 16, 32, 52
+  - section: 4.4
+    problems: 1, 2, 5, 7, 10, 19, 28, 34
+  - section: 4.6
+    problems: 5, 13, 16, 17, 22
 
 - name: WRH 5
 - due: Monday, 23 February
@@ -75,7 +79,7 @@ homework:
   - section: 4.2
     problems: 2, 4, 5, 9, 14, 23
   - section: 4.3
-    problems: 4, 10, 16, 32, 52
+    problems: Moved to WRH 6
 
 
 
