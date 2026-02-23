@@ -94,11 +94,11 @@ daily:
 
 
 
-# - name: Monday 6 October
-#   description: Higher order DEs
-#   chapter: 4.3
-#   doc: worksheets/4p2_4p3.pdf
-#   docname: worksheet
+- name: Monday 23 February
+  description: Higher order DEs
+  chapter: 4.3
+  doc: worksheets/4p3.pdf
+  docname: worksheet
 
 # - name: Wednesday 8 October
 #   description: Non-homogenous linear DEs. Undetermined coefficients 
