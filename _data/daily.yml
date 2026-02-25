@@ -100,19 +100,17 @@ daily:
   doc: worksheets/4p3.pdf
   docname: worksheet
 
-# - name: Wednesday 8 October
-#   description: Non-homogenous linear DEs. Undetermined coefficients 
-#   chapter: 4.4
+- name: Wednesday 25 February
+  description: Non-homogenous linear DEs. Undetermined coefficients 
+  chapter: 4.4
 
-# - name: Friday 10 October
-#   description: Non-homogenous linear DEs. Undetermined coefficients 
-#   chapter: 4.4
-#   doc: worksheets/4p4.pdf
-#   docname: worksheet
+- name: Friday 27 February
+  description: Non-homogenous linear DEs. Variation of parameters
+  chapter: 4.6
 
-# - name: Monday 13 October
-#   description: Variation of parameters
-#   chapter: 4.6
+# - name: Monday 2 March
+#   description: Non-homogenous linear DEs
+#   chapter: 4.4, 4.6
 
 # - name: Wednesday 15 October
 #   description: Quiz 4
