@@ -108,9 +108,11 @@ daily:
   description: Non-homogenous linear DEs. Variation of parameters
   chapter: 4.6
 
-# - name: Monday 2 March
-#   description: Non-homogenous linear DEs
-#   chapter: 4.4, 4.6
+- name: Monday 2 March
+  description: Non-homogenous linear DEs
+  chapter: 4.4, 4.6
+  doc: worksheets/ch4.pdf
+  docname: worksheet
 
 # - name: Wednesday 15 October
 #   description: Quiz 4
