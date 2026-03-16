@@ -124,12 +124,15 @@ daily:
   description: <i>Midterm exam</i>
   
 
-# - name: Monday 20 October
-#   description: Cauchy-Euler equations
-#   chapter: 4.7
+- name: Monday 16 March
+  description: Higher order linear models
+  chapter: 5.1.1
+  otherurl: https://www.youtube.com/watch?v=FE-hM1kRK4Y
+  otherurlname: "3Blue1Brown on mass/spring problems. Do not focus on the Laplace transform, we will discuss it later in the course. Instead focus on visualisation."
 
-# - name: Wednesday 22 October
-#   description: Midterm Review
+- name: Wednesday 18 March
+  description: Higher order linear models
+  chapter: 5.1
 
 # - name: Friday 24 October
 #   description: Midterm Exam

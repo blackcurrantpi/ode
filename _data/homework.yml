@@ -46,11 +46,11 @@ homework:
 #   - section: 7.2
 #     problems: <s>TBD</s> moved to WRH 11
 
-# - name: WRH 9
-# - due: Monday, 3 November
-#   sections:
-#   - section: 5.1
-#     problems: 5, 9, 25, 29, 31, 33, 35, 37, 42
+- name: WRH 7
+- due: Monday, 23 March
+  sections:
+  - section: 5.1
+    problems: 5, 9, 25, 29, 31, 33, 35, 37, 42
 
 
 # - name: WRH 8
