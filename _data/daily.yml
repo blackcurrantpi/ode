@@ -134,6 +134,10 @@ daily:
   description: Higher order linear models
   chapter: 5.1
 
+- name: Friday 20 March
+  description: Higher order models
+  chapter: 5.1, 5.3
+
 # - name: Friday 24 October
 #   description: Midterm Exam
 
