@@ -141,6 +141,8 @@ daily:
 - name: Monday 23 March
   description: Higher order non-linear models
   chapter: 5.3
+  doc: codes/nonlin_models.m
+  docname: Codes from slides
 
 - name: Wednesday 25 March
   description: Quiz 4, Laplace transform
