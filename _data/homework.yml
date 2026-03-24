@@ -35,14 +35,14 @@ homework:
 #     problems: <s>TBD</s> moved to WRH 12
   
 
-# - name: WRH 10
-# - due: Monday, 10 November
-#   sections:
-#   - section: 5.3
-#     problems: No problems from the book, instead
-#     supp: F25/wrh5p3.pdf
-#   - section: 7.1
-#     problems: 2, 7, 12, 25, 28, 32
+- name: WRH 8
+- due: Monday, 30 March
+  sections:
+  - section: 5.3
+    problems: No problems from the book, instead
+    supp: F25/wrh5p3.pdf
+  - section: 7.1
+    problems: 2, 7, 12, 25, 28, 32
 #   - section: 7.2
 #     problems: <s>TBD</s> moved to WRH 11
 
