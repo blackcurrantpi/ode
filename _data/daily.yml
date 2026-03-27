@@ -147,22 +147,16 @@ daily:
 - name: Wednesday 25 March
   description: Quiz 4, Laplace transform
   chapter: 7.1
+  otherurl: https://www.youtube.com/watch?v=j0wJBEZdwLs
+  otherurlname: "3Blue1Brown on Laplace transform"
 
-- name: Friday 27 October
+- name: Friday 27 March
   description: Laplace transform
   chapter: 7.1
 
-# - name: Monday 3 November
-#   description: Higher order non-linear models, Laplace transform
-#   chapter: 5.3, 7.1
-
-# - name: Wednesday 5 November
-#   description: Laplace transform
-#   chapter: 7.1
-
-# - name: Friday 7 November
-#   description: Inverse Laplace transform, Laplace transform of derivatives
-#   chapter: 7.2
+- name: Monday 30 March
+  description: Inverse Laplace transform, Laplace transform of derivatives
+  chapter: 7.2
 
 # - name: Monday 10 November
 #   description: Operational properties of Laplace transform
