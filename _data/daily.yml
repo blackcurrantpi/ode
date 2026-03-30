@@ -155,15 +155,23 @@ daily:
   chapter: 7.1
 
 - name: Monday 30 March
-  description: Inverse Laplace transform, Laplace transform of derivatives
+  description: Inverse Laplace transform
   chapter: 7.2
 
-# - name: Monday 10 November
+- name: Wednesday 1 April
+  description: Laplace transform of derivatives
+  chapter: 7.2
+
+# - name: Friday 3 April
 #   description: Operational properties of Laplace transform
 #   chapter: 7.3
 
-# - name: Wednesday 12 November
-#   description: Quiz 6, Operational properties of Laplace transform
+# - name: Monday 6 April
+#   description: Operational properties of Laplace transform
+#   chapter: 7.3
+
+# - name: Wednesday 8 April
+#   description: Quiz 5, Operational properties of Laplace transform
 #   chapter: 7.3
 
 # - name: Friday 14 November

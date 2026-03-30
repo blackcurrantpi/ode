@@ -24,15 +24,14 @@ homework:
 #     problems: 1, 2, 8, 9, 11, 17
 
 
-# - name: WRH 11
-# - due: Monday, 17 November
-#   sections:
-#   - section: 7.2
-#     problems: 4, 12, 20, 26, 36, 38, 43
-#   - section: 7.3
-#     problems: 4, 16, 18, 26, 40, 42, 46, 61, 66
-#   - section: 7.4
-#     problems: <s>TBD</s> moved to WRH 12
+- name: WRH 9
+- due: Monday, 6 April
+  sections:
+  - section: 7.2
+    problems: 4, 12, 20, 26, 36, 38, 43
+  - section: 7.3
+    problems: 4, 16, 18, 26, 40, 42, 46, 61, 66
+
   
 
 - name: WRH 8

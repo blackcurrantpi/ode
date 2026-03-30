@@ -29,10 +29,10 @@ exams:
   # info: <b>in class</b>
   info: 5.1
 
-# - name: Quiz 5
-#   date: Wednesday, 29 October
-#   # info: <b>in class</b>
-#   info: 4.6, 4.7
+- name: Quiz 5
+  date: Wednesday, 8 April
+  # info: <b>in class</b>
+  info: 7.1, 7.2, 7.3, 7.4(?)
 
 # - name: Quiz 6
 #   date: Wednesday, 12 November
