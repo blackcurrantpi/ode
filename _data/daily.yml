@@ -162,9 +162,9 @@ daily:
   description: Laplace transform of derivatives
   chapter: 7.2
 
-# - name: Friday 3 April
-#   description: Operational properties of Laplace transform
-#   chapter: 7.3
+- name: Friday 3 April
+  description: Operational properties of Laplace transform
+  chapter: 7.3
 
 # - name: Monday 6 April
 #   description: Operational properties of Laplace transform
