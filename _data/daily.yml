@@ -173,14 +173,17 @@ daily:
 - name: Wednesday 8 April
   description: Quiz 5, Operational properties of Laplace transform
   chapter: 7.4
+  otherurl: https://www.youtube.com/watch?v=IaSGqQa5O-M
+  otherurlname: "3Blue1Brown on convolution"
 
 - name: Friday 10 April
   description: Operational properties of Laplace transform
   chapter: 7.4
+  
 
 # - name: Monday 17 November
 #   description: More on Laplace transform
-#   chapter: 7.4
+#   chapter: 6.1
 
 # - name: Wednesday 19 November
 #   description: DEs and power series
