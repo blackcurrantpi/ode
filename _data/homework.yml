@@ -11,11 +11,11 @@ homework:
 #     problems: No problems from the book, instead
 #     supp: F25/wrh8p4.pdf
 
-# - name: WRH 12
-# - due: Monday, 1 December
-#   sections:
-#   - section: 7.4
-#     problems: 2, 6, 14, 19, 32, 38, 42
+- name: WRH 10
+- due: Monday,13 April
+  sections:
+  - section: 7.4
+    problems: 2, 6, 14, 19, 32, 38, 42
 #   - section: 6.2
 #     problems: 6, 8, 14 (first 4 terms), 19, 27
 #   - section: 6.4
