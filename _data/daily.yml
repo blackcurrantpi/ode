@@ -181,13 +181,13 @@ daily:
   chapter: 7.4
   
 
-# - name: Monday 17 November
-#   description: More on Laplace transform
-#   chapter: 6.1
+- name: Monday 13 April
+  description: Review of power series 
+  chapter: 6.1
 
-# - name: Wednesday 19 November
-#   description: DEs and power series
-#   chapter: 6.1, 6.2
+- name: Wednesday 15 April
+  description: DEs and power series
+  chapter: 6.1, 6.2
 
 # - name: Friday 21 November
 #   description: DEs and power series + Bessel functions
