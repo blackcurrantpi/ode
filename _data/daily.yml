@@ -187,7 +187,9 @@ daily:
 
 - name: Wednesday 15 April
   description: DEs and power series
-  chapter: 6.1, 6.2
+  chapter: 6.2
+  doc: worksheets/6p2.pdf
+  docname: worksheet
 
 # - name: Friday 21 November
 #   description: DEs and power series + Bessel functions
