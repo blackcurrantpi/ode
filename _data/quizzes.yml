@@ -34,7 +34,7 @@ exams:
   # info: <b>in class</b>
   info: 7.1, 7.2, 7.3
 
-# - name: Quiz 6
-#   date: Wednesday, 12 November
-#   # info: <b>in class</b>
-#   info: 5.1, 5.3, 7.1
+- name: Quiz 6
+  date: Friday, 24 April
+  # info: <b>in class</b>
+  info: 7.4, 6.1, 6.2, 8.1, 8.4

@@ -9,6 +9,7 @@ exams:
   solutions: practice_mid_sol.pdf
 - name: Final Exam
   date: Friday, May 1  <b>8:00-10:00am</b>
-  # info: Midterm contents + 4.6, 4.7, 5.1, 5.3, 7.1, 7.2, 7.3, 7.4, 6.1, 6.2, 6.4, 3.3, 8.1, 8.4
-  # reviewguide: fin_review.pdf
-  #rubric: finalrubric.pdf
+  info: Midterm contents + 5.1, 5.3, 7.1, 7.2, 7.3, 7.4, 6.1, 6.2, 3.3, 8.1, 8.4
+  # reviewguide: review_mid.pdf
+  blank: practice_fin.pdf
+  solutions: practice_fin_sol.pdf
