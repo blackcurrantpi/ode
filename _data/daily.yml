@@ -191,24 +191,23 @@ daily:
   doc: worksheets/6p2.pdf
   docname: worksheet
 
-# - name: Friday 21 November
-#   description: DEs and power series + Bessel functions
-#   chapter: 6.2, 6.4
+- name: Friday 17 April
+  description: DEs and power series, Modelling with systems of first-order ODEs
+  chapter: 6.2, 3.3
 
-# - name: Monday 24 November
-#   description: Modelling with systems of first-order ODEs
-#   chapter: 3.3
+- name: Monday 20 April
+  description: Linear Systems
+  chapter: 8.1
+  doc: codes/brines.m
+  docname: Matlab example
 
-# - name: Monday 1 December
-#   description: Linear Systems
-#   chapter: 8.1
-#   doc: codes/brines.m
-#   docname: Matlab example
+- name: Wednesday 22 April
+  description: Matrix exponential
+  chapter: 8.4
 
-# - name: Wednesday 3 December
-#   description: Matrix exponential
-#   chapter: 8.4
-
+- name: Friday 24 April
+  description: Quiz 6
+  
 # - name: Friday 5 December
 #   description: review
 #   doc: worksheets/table.pdf

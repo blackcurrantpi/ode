@@ -11,8 +11,21 @@ homework:
 #     problems: No problems from the book, instead
 #     supp: F25/wrh8p4.pdf
 
+- name: WRH 11
+- due: Wednesday, 22 April
+  sections:
+  - section: 6.2
+    problems: 6, 8, 14 (first 4 terms), 19, 27
+#   - section: 3.3
+#     problems: 1, 2, 8, 9, 11, 17
+  - section: 8.1
+    problems: 3, 4, 12, 15, 19, 20, 22
+  - section: 8.4
+    problems: No problems from the book, instead
+    supp: F25/wrh8p4.pdf
+
 - name: WRH 10
-- due: Monday,13 April
+- due: Monday, 13 April
   sections:
   - section: 7.4
     problems: 2, 6, 14, 19, 32, 38, 42
