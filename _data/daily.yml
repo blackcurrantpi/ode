@@ -207,7 +207,11 @@ daily:
 
 - name: Friday 24 April
   description: Quiz 6
-  
+
+
+- name: Monday 27 April
+  description: review
+
 # - name: Friday 5 December
 #   description: review
 #   doc: worksheets/table.pdf
